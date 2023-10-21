@@ -9,7 +9,7 @@ const FooterContainer = ({ className }) => {
 
 	// useEffect(() => {
 	// 	fetch(
-	// 		'https://api.openweather.org/data/2.5/weather?q=Moscow&units=metric&lang=ru&appid=acd4f346c669d7400f4dbbeb7f1350e0',
+	// 		'https://api.openweather.org/data/2.5/weather?q=Moscow&units=metric&lang=ru&appid=8f77d5942b4ea6c811dc6bc779479a73',
 	// 	)
 	// 		.then((res) => res.json())
 	// 		.then(({ name, main, weather }) => {
