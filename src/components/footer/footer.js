@@ -42,12 +42,12 @@ export const Footer = styled(FooterContainer)`
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
-	height: 120px;
+	height: 110px;
 	width: 1000px;
 	padding: 20px 40px;
 	font-weight: bold;
+	position: fixed;
+	bottom: 0;
 	background-color: rgb(255, 255, 255);
 	box-shadow: rgb(0, 0, 0) 0px 2px 17px;
-	position: absolute;
-	bottom: 0;
 `;
