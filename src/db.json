@@ -109,20 +109,6 @@
     {
       "author_id": "001",
       "post_id": "001",
-      "published_at": "2064-12-21 13:32",
-      "content": "asfsadfsadf",
-      "id": 1
-    },
-    {
-      "author_id": "001",
-      "post_id": "001",
-      "published_at": "2040-06-07 14:56",
-      "content": "Мой первый комментарий",
-      "id": 2
-    },
-    {
-      "author_id": "001",
-      "post_id": "001",
       "published_at": "2034-06-04 19:39",
       "content": "Мой первый комментарий",
       "id": 3
@@ -154,13 +140,6 @@
       "published_at": "2039-01-20 16:13",
       "content": "Новый комментарий",
       "id": 7
-    },
-    {
-      "author_id": "001",
-      "post_id": "001",
-      "published_at": "2041-10-08 12:17",
-      "content": "Новый комментарий 2",
-      "id": 8
     }
   ],
   "sessions": [
@@ -185,6 +164,28 @@
         "roleId": 0
       },
       "id": 2
+    },
+    {
+      "hash": "0.31705622559691737372133957251207903027534484863281",
+      "user": {
+        "id": "001",
+        "login": "anton",
+        "password": "qwerty123",
+        "registeredAt": "2050-09-22",
+        "roleId": 0
+      },
+      "id": 3
+    },
+    {
+      "hash": "0.92209991510807842729491312638856470584869384765625",
+      "user": {
+        "id": "001",
+        "login": "anton",
+        "password": "qwerty123",
+        "registeredAt": "2050-09-22",
+        "roleId": 0
+      },
+      "id": 4
     }
   ]
 }
