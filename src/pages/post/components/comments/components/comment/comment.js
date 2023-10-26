@@ -5,18 +5,18 @@ import { useServerRequest } from '../../../../../../hooks';
 import styled from 'styled-components';
 
 const CommentContainer = ({ className, postId, id, author, publishedAt, content }) => {
-	const dispatc = useDispatch();
+	const dispatch = useDispatch();
 	const requestServer = useServerRequest();
 
 	const onCommentRemove = (id) => {
-		dispatc(
+		dispatch(
 			openModal({
 				text: 'Удалить комментарий?',
 				onConfirm: () => {
-					dispatc(removeCommentAsync(requestServer, postId, id));
-					dispatc(CLOSE_MODAL);
+					dispatch(removeCommentAsync(requestServer, postId, id));
+					dispatch(CLOSE_MODAL);
 				},
-				onCancel: () => dispatc(CLOSE_MODAL),
+				onCancel: () => dispatch(CLOSE_MODAL),
 			}),
 		);
 	};
@@ -27,6 +27,7 @@ const CommentContainer = ({ className, postId, id, author, publishedAt, content 
 				<div className="information-panel">
 					<div className="author">
 						<Icon
+							inactive={true}
 							id="fa-user-circle-o"
 							size="18px"
 							margin="0 10px 0 0"
@@ -36,6 +37,7 @@ const CommentContainer = ({ className, postId, id, author, publishedAt, content 
 					</div>
 					<div className="published-at">
 						<Icon
+							inactive={true}
 							id="fa-calendar-o"
 							size="18px"
 							margin="0 10px 0 0"
