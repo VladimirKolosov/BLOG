@@ -1,7 +1,7 @@
 import { ACTION_TYPE } from '../actions';
 
 const initialPostState = {
-	id: '',
+	id: ' ',
 	title: '',
 	imageUrl: '',
 	content: '',
