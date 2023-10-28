@@ -1,3 +1,4 @@
+import PropTypes from 'prop-types';
 import { Input, Icon } from '../../../../components';
 import styled from 'styled-components';
 
@@ -31,3 +32,8 @@ export const Search = styled(SearchContainer)`
 		top: 3px;
 	}
 `;
+
+Search.propTypes = {
+	searchPhrase: PropTypes.string.isRequired,
+	onChange: PropTypes.func.isRequired,
+};

@@ -18,7 +18,7 @@ const UsersContainer = ({ className }) => {
 	const requestServer = useServerRequest();
 
 	useEffect(() => {
-		if (!checkAccess([ROLE.ADMIN, userRole])) {
+		if (!checkAccess([ROLE.ADMIN], userRole)) {
 			return;
 		}
 
@@ -36,7 +36,7 @@ const UsersContainer = ({ className }) => {
 	}, [requestServer, shouldUpdateUserList, userRole]);
 
 	const onUserRemove = (userId) => {
-		if (!checkAccess([ROLE.ADMIN, userRole])) {
+		if (!checkAccess([ROLE.ADMIN], userRole)) {
 			return;
 		}
 
