@@ -1,0 +1,201 @@
+{
+  "users": [
+    {
+      "id": "001",
+      "login": "anton",
+      "password": "qwerty123",
+      "registered_at": "2050-09-22",
+      "role_id": 0
+    },
+    {
+      "login": "vova",
+      "password": "qwerty123",
+      "registered_at": "2060-11-22 16:29",
+      "role_id": 1,
+      "id": "8IynKp6"
+    },
+    {
+      "login": "ivan",
+      "password": "qwerty123",
+      "registered_at": "2056-07-23 12:19",
+      "role_id": 2,
+      "id": "wp-xw2l"
+    }
+  ],
+  "roles": [
+    {
+      "id": 0,
+      "name": "Администратор"
+    },
+    {
+      "id": 1,
+      "name": "Модератор"
+    },
+    {
+      "id": 2,
+      "name": "Читатель"
+    },
+    {
+      "id": 3,
+      "name": "Гость"
+    }
+  ],
+  "posts": [
+    {
+      "id": "001",
+      "title": "Господа, глубокий уровень погружения в ситуацию",
+      "image_url": "https://fastly.picsum.photos/id/727/280/150.jpg?hmac=iHF0PK03XvANB0SLqVEPvmf25vtCY-mRWvJU2Dqj77w",
+      "content": "\nЗначимость этих проблем настолько очевидна, что разбавленное изрядной долей эмпатии, рациональное мышление однозначно фиксирует необходимость поэтапного и последовательного развития общества. Повседневная практика показывает, что синтетическое тестирование позволяет оценить значение системы обучения кадров, соответствующей насущным потребностям.Разнообразный и богатый опыт говорит нам, что семантический разбор внешних противодействий обеспечивает актуальность переосмысления внешнеэкономических политик. Также как современная методология разработки предоставляет широкие возможности для вывода текущих активов.В своём стремлении улучшить пользовательский опыт мы упускаем, что ключевые особенности структуры проекта, инициированные исключительно синтетически, объединены в целые кластеры себе подобных. Для современного мира начало повседневной работы по формированию позиции напрямую зависит от существующих финансовых и административных условий. Для современного мира новая модель организационной деятельности говорит о возможностях переосмысления внешнеэкономических политик\n\nНовый абзац\n",
+      "published_at": "2045-06-21"
+    },
+    {
+      "id": "002",
+      "title": "В провинции никого не пугает трубный призыв",
+      "image_url": "https://fastly.picsum.photos/id/727/280/150.jpg?hmac=iHF0PK03XvANB0SLqVEPvmf25vtCY-mRWvJU2Dqj77w",
+      "content": "",
+      "published_at": "2050-06-15"
+    },
+    {
+      "id": "003",
+      "title": "Частотность поисковых запросов расставила все точки над i",
+      "image_url": "https://fastly.picsum.photos/id/727/280/150.jpg?hmac=iHF0PK03XvANB0SLqVEPvmf25vtCY-mRWvJU2Dqj77w",
+      "content": "",
+      "published_at": "2045-09-15"
+    },
+    {
+      "id": "004",
+      "title": "Очевидцы сообщают, что слышали звон колоколов",
+      "image_url": "https://fastly.picsum.photos/id/727/280/150.jpg?hmac=iHF0PK03XvANB0SLqVEPvmf25vtCY-mRWvJU2Dqj77w",
+      "content": "",
+      "published_at": "2040-01-20"
+    },
+    {
+      "id": "005",
+      "title": "Инцидент не исчерпан: жизнь прекрасна",
+      "image_url": "https://fastly.picsum.photos/id/727/280/150.jpg?hmac=iHF0PK03XvANB0SLqVEPvmf25vtCY-mRWvJU2Dqj77w",
+      "content": "",
+      "published_at": "2049-10-29"
+    },
+    {
+      "id": "006",
+      "title": "Сознание наших соотечественников не замутнено пропагандой",
+      "image_url": "https://fastly.picsum.photos/id/727/280/150.jpg?hmac=iHF0PK03XvANB0SLqVEPvmf25vtCY-mRWvJU2Dqj77w",
+      "content": "",
+      "published_at": "2049-05-10"
+    },
+    {
+      "id": "007",
+      "title": "И по сей день в центральных регионах звучит перекатами шёпот бессменных лидеров",
+      "image_url": "https://fastly.picsum.photos/id/727/280/150.jpg?hmac=iHF0PK03XvANB0SLqVEPvmf25vtCY-mRWvJU2Dqj77w",
+      "content": "",
+      "published_at": "2033-05-29"
+    },
+    {
+      "id": "008",
+      "title": "Воистину радостный звук: боевой клич героев!",
+      "image_url": "https://fastly.picsum.photos/id/727/280/150.jpg?hmac=iHF0PK03XvANB0SLqVEPvmf25vtCY-mRWvJU2Dqj77w",
+      "content": "",
+      "published_at": "2050-05-29"
+    },
+    {
+      "id": "009",
+      "title": "Главные «СМИ» предупреждают: склады ломятся от зерна",
+      "image_url": "https://fastly.picsum.photos/id/727/280/150.jpg?hmac=iHF0PK03XvANB0SLqVEPvmf25vtCY-mRWvJU2Dqj77w",
+      "content": "",
+      "published_at": "2049-05-29"
+    },
+    {
+      "image_url": "https://fastly.picsum.photos/id/727/280/150.jpg?hmac=iHF0PK03XvANB0SLqVEPvmf25vtCY-mRWvJU2Dqj77w",
+      "published_at": "2036-02-10 23:14",
+      "title": "Идейные соображения высшего порядка",
+      "content": "Привет. Сегодня поговорим о высшем проявление лени человека",
+      "id": "qG7aAwH"
+    },
+    {
+      "image_url": "https://fastly.picsum.photos/id/727/280/150.jpg?hmac=iHF0PK03XvANB0SLqVEPvmf25vtCY-mRWvJU2Dqj77w",
+      "published_at": "2048-07-22 13:53",
+      "title": "Привет",
+      "content": "Привет",
+      "id": "07BV7Jl"
+    }
+  ],
+  "comments": [
+    {
+      "author_id": "001",
+      "post_id": "001",
+      "published_at": "2034-06-04 19:39",
+      "content": "Мой первый комментарий",
+      "id": 3
+    },
+    {
+      "author_id": "001",
+      "post_id": "001",
+      "published_at": "2052-03-31 23:59",
+      "content": "Мой первый комментарий",
+      "id": 5
+    },
+    {
+      "author_id": "001",
+      "post_id": "001",
+      "published_at": "2051-11-14 06:33",
+      "content": "Мой первый комментарий",
+      "id": 6
+    },
+    {
+      "author_id": "001",
+      "post_id": "001",
+      "published_at": "2039-01-20 16:13",
+      "content": "Новый комментарий",
+      "id": 7
+    },
+    {
+      "author_id": "001",
+      "post_id": "003",
+      "published_at": "2045-10-03 19:47",
+      "content": "Вот это да ",
+      "id": 8
+    },
+    {
+      "author_id": "wp-xw2l",
+      "post_id": "001",
+      "published_at": "2059-11-06 08:16",
+      "content": "Комментарий от Ивана",
+      "id": 9
+    }
+  ],
+  "sessions": [
+    {
+      "hash": "0.46568174564096620482445132438442669808864593505859",
+      "user": {
+        "id": "001",
+        "login": "anton",
+        "password": "qwerty123",
+        "registeredAt": "2050-09-22",
+        "roleId": 0
+      },
+      "id": 1
+    },
+    {
+      "hash": "0.81558058968495616980476370372343808412551879882813",
+      "user": {
+        "id": "001",
+        "login": "anton",
+        "password": "qwerty123",
+        "registeredAt": "2050-09-22",
+        "roleId": 0
+      },
+      "id": 2
+    },
+    {
+      "hash": "0.32333091268078217872528057341696694493293762207031",
+      "user": {
+        "id": "001",
+        "login": "anton",
+        "password": "qwerty123",
+        "registeredAt": "2050-09-22",
+        "roleId": 0
+      },
+      "id": 3
+    }
+  ]
+}
